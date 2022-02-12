@@ -1,2 +1,8 @@
+# ignore airflow-tutorial folder
 airflow-tutorial/
+
+# ignore personal notes
 Airflow commands.txt
+
+# ignore .gitignore
+.gitignore
